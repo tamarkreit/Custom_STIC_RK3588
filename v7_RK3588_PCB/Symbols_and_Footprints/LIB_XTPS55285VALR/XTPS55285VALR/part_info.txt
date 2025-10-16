@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=XTPS55285VALR
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=22
+Version=1.3
+Released=2025-05-30 13:46:59
+Downloaded=2025-10-16 12:58:23
+3D=Y
