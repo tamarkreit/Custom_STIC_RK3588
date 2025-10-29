@@ -4844,6 +4844,16 @@
 		)
 		(uuid "1330bdb1-e1b2-4624-90f9-203a88fad3ac")
 	)
+	(text "AND"
+		(exclude_from_sim no)
+		(at 360.68 95.504 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "25880bbc-1bbc-4ea0-80c4-966bab6d61d9")
+	)
 	(text "PoE to 3.3V"
 		(exclude_from_sim no)
 		(at 37.338 23.368 0)
@@ -4947,6 +4957,16 @@
 			)
 		)
 		(uuid "d12c960e-113f-465b-b9ca-ee868d856ec8")
+	)
+	(text "NOT"
+		(exclude_from_sim no)
+		(at 311.658 90.678 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d6222eb2-622a-4e99-b53c-b7c02a5337f6")
 	)
 	(text "NOTE: BAT_SNS must tie to positive\nbattery pack terminal on independent\npath from BAT pin"
 		(exclude_from_sim no)
@@ -10649,10 +10669,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "c0844c79-2fec-4771-8cce-1d5d9e01b4e3")
+			(uuid "c0844c79-2fec-4771-8cce-1d5d9e01b4e4")
 		)
 		(pin "2"
-			(uuid "fea1958f-a6f8-44e8-96d2-279580401924")
+			(uuid "fea1958f-a6f8-44e8-96d2-279580401925")
 		)
 		(instances
 			(project ""
@@ -15773,10 +15793,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "c0844c79-2fec-4771-8cce-1d5d9e01b4e3")
+			(uuid "c0844c79-2fec-4771-8cce-1d5d9e01b4e5")
 		)
 		(pin "2"
-			(uuid "fea1958f-a6f8-44e8-96d2-279580401924")
+			(uuid "fea1958f-a6f8-44e8-96d2-279580401926")
 		)
 		(instances
 			(project ""
