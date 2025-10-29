@@ -14923,7 +14923,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0c87e9a7-b94b-4195-9174-e6723a53f9d9")
-		(property "Reference" "TP?"
+		(property "Reference" "TP7012"
 			(at 284.48 344.6779 0)
 			(effects
 				(font
@@ -14974,7 +14974,7 @@
 		(instances
 			(project "v7_RK3588_PCB"
 				(path "/1d5a1342-f497-4807-8bdb-ea718133b0ad/fb1254ad-a22e-4d7b-81d8-e9d32dd5de93"
-					(reference "TP?")
+					(reference "TP7012")
 					(unit 1)
 				)
 			)
@@ -15274,7 +15274,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SMA_DIO"
+		(property "Footprint" ""
 			(at 144.78 227.33 0)
 			(effects
 				(font
@@ -15478,7 +15478,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PWP20_3P4X2P4"
+		(property "Footprint" ""
 			(at 223.52 265.43 0)
 			(effects
 				(font
@@ -15796,7 +15796,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1d95269d-7af7-419c-b04a-65b978899767")
-		(property "Reference" "TP?"
+		(property "Reference" "TP7001"
 			(at 125.73 222.7579 0)
 			(effects
 				(font
@@ -15847,7 +15847,7 @@
 		(instances
 			(project "v7_RK3588_PCB"
 				(path "/1d5a1342-f497-4807-8bdb-ea718133b0ad/fb1254ad-a22e-4d7b-81d8-e9d32dd5de93"
-					(reference "TP?")
+					(reference "TP7001")
 					(unit 1)
 				)
 			)
@@ -16196,7 +16196,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "23d0fdc6-0179-4ca9-a5d3-5ac46ad89a65")
-		(property "Reference" "T?"
+		(property "Reference" "T7002"
 			(at 339.09 306.07 0)
 			(effects
 				(font
@@ -16254,7 +16254,7 @@
 		(instances
 			(project "v7_RK3588_PCB"
 				(path "/1d5a1342-f497-4807-8bdb-ea718133b0ad/fb1254ad-a22e-4d7b-81d8-e9d32dd5de93"
-					(reference "T?")
+					(reference "T7002")
 					(unit 1)
 				)
 			)
@@ -16750,7 +16750,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "358e34a7-4a8b-4167-8120-aac3c11c6f6f")
-		(property "Reference" "TP?"
+		(property "Reference" "TP7004"
 			(at 328.93 255.2699 90)
 			(effects
 				(font
@@ -16801,7 +16801,7 @@
 		(instances
 			(project "v7_RK3588_PCB"
 				(path "/1d5a1342-f497-4807-8bdb-ea718133b0ad/fb1254ad-a22e-4d7b-81d8-e9d32dd5de93"
-					(reference "TP?")
+					(reference "TP7004")
 					(unit 1)
 				)
 			)
@@ -17088,7 +17088,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3be69ad1-9a9f-4602-a5d6-726ccbf60910")
-		(property "Reference" "TP?"
+		(property "Reference" "TP7006"
 			(at 221.488 269.24 90)
 			(effects
 				(font
@@ -17137,7 +17137,7 @@
 		(instances
 			(project "v7_RK3588_PCB"
 				(path "/1d5a1342-f497-4807-8bdb-ea718133b0ad/fb1254ad-a22e-4d7b-81d8-e9d32dd5de93"
-					(reference "TP?")
+					(reference "TP7006")
 					(unit 1)
 				)
 			)
@@ -17284,7 +17284,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "47b1ade6-b4c7-4296-96b9-20cfb721fcf0")
-		(property "Reference" "Q?"
+		(property "Reference" "Q7002"
 			(at 411.734 262.89 90)
 			(effects
 				(font
@@ -17366,7 +17366,7 @@
 		(instances
 			(project "v7_RK3588_PCB"
 				(path "/1d5a1342-f497-4807-8bdb-ea718133b0ad/fb1254ad-a22e-4d7b-81d8-e9d32dd5de93"
-					(reference "Q?")
+					(reference "Q7002")
 					(unit 1)
 				)
 			)
@@ -17451,7 +17451,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4833853a-6bb1-4b67-b33a-9d69ae870e6c")
-		(property "Reference" "TP?"
+		(property "Reference" "TP7005"
 			(at 279.4 268.4779 0)
 			(effects
 				(font
@@ -17502,7 +17502,7 @@
 		(instances
 			(project "v7_RK3588_PCB"
 				(path "/1d5a1342-f497-4807-8bdb-ea718133b0ad/fb1254ad-a22e-4d7b-81d8-e9d32dd5de93"
-					(reference "TP?")
+					(reference "TP7005")
 					(unit 1)
 				)
 			)
@@ -17655,7 +17655,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "51ef8c5d-f94b-46bb-b0d5-dcb616a5e700")
-		(property "Reference" "FB?"
+		(property "Reference" "FB7003"
 			(at 111.76 280.416 90)
 			(effects
 				(font
@@ -17707,7 +17707,7 @@
 		(instances
 			(project "v7_RK3588_PCB"
 				(path "/1d5a1342-f497-4807-8bdb-ea718133b0ad/fb1254ad-a22e-4d7b-81d8-e9d32dd5de93"
-					(reference "FB?")
+					(reference "FB7003")
 					(unit 1)
 				)
 			)
@@ -18535,7 +18535,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "619f6005-f8d7-46e3-9899-b8ba5af94b51")
-		(property "Reference" "TP?"
+		(property "Reference" "TP7003"
 			(at 269.24 254.7619 0)
 			(effects
 				(font
@@ -18586,7 +18586,7 @@
 		(instances
 			(project "v7_RK3588_PCB"
 				(path "/1d5a1342-f497-4807-8bdb-ea718133b0ad/fb1254ad-a22e-4d7b-81d8-e9d32dd5de93"
-					(reference "TP?")
+					(reference "TP7003")
 					(unit 1)
 				)
 			)
@@ -18936,7 +18936,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "69660ff6-aa02-4ecb-93f0-cb525ca28639")
-		(property "Reference" "TP?"
+		(property "Reference" "TP7007"
 			(at 279.4 280.1619 0)
 			(effects
 				(font
@@ -18987,7 +18987,7 @@
 		(instances
 			(project "v7_RK3588_PCB"
 				(path "/1d5a1342-f497-4807-8bdb-ea718133b0ad/fb1254ad-a22e-4d7b-81d8-e9d32dd5de93"
-					(reference "TP?")
+					(reference "TP7007")
 					(unit 1)
 				)
 			)
@@ -19018,7 +19018,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CDBHM1100L-HF_CIP"
+		(property "Footprint" ""
 			(at 49.53 236.22 0)
 			(effects
 				(font
@@ -19078,7 +19078,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6a4bf565-21d4-459e-ac7c-b9aedd8c1313")
-		(property "Reference" "Q?"
+		(property "Reference" "Q7003"
 			(at 328.93 266.6999 0)
 			(effects
 				(font
@@ -19096,7 +19096,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MOSFET_50DP-T1-E3_VIS"
+		(property "Footprint" ""
 			(at 314.96 270.51 0)
 			(effects
 				(font
@@ -19152,7 +19152,7 @@
 		(instances
 			(project "v7_RK3588_PCB"
 				(path "/1d5a1342-f497-4807-8bdb-ea718133b0ad/fb1254ad-a22e-4d7b-81d8-e9d32dd5de93"
-					(reference "Q?")
+					(reference "Q7003")
 					(unit 1)
 				)
 			)
@@ -19448,7 +19448,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6df0d610-dff5-47c1-acf7-16c377df3750")
-		(property "Reference" "T?"
+		(property "Reference" "T7001"
 			(at 355.6 223.52 0)
 			(effects
 				(font
@@ -19464,7 +19464,7 @@
 				)
 			)
 		)
-		(property "Footprint" "POE300F30LD"
+		(property "Footprint" ""
 			(at 367.03 326.06 0)
 			(effects
 				(font
@@ -19602,7 +19602,7 @@
 		(instances
 			(project "v7_RK3588_PCB"
 				(path "/1d5a1342-f497-4807-8bdb-ea718133b0ad/fb1254ad-a22e-4d7b-81d8-e9d32dd5de93"
-					(reference "T?")
+					(reference "T7001")
 					(unit 1)
 				)
 			)
@@ -21053,7 +21053,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT-23_ONS"
+		(property "Footprint" ""
 			(at 435.61 372.11 0)
 			(effects
 				(font
@@ -21183,7 +21183,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8fa66112-1281-47a6-8efd-90851b4e91b4")
-		(property "Reference" "TP?"
+		(property "Reference" "TP7010"
 			(at 323.85 324.3579 0)
 			(effects
 				(font
@@ -21234,7 +21234,7 @@
 		(instances
 			(project "v7_RK3588_PCB"
 				(path "/1d5a1342-f497-4807-8bdb-ea718133b0ad/fb1254ad-a22e-4d7b-81d8-e9d32dd5de93"
-					(reference "TP?")
+					(reference "TP7010")
 					(unit 1)
 				)
 			)
@@ -21382,7 +21382,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "938ea78a-5c8f-4d13-8a4e-1034bbdac844")
-		(property "Reference" "FB?"
+		(property "Reference" "FB7001"
 			(at 276.098 92.964 0)
 			(effects
 				(font
@@ -21436,7 +21436,7 @@
 		(instances
 			(project "v7_RK3588_PCB"
 				(path "/1d5a1342-f497-4807-8bdb-ea718133b0ad/fb1254ad-a22e-4d7b-81d8-e9d32dd5de93"
-					(reference "FB?")
+					(reference "FB7001")
 					(unit 1)
 				)
 			)
@@ -21720,7 +21720,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "990403d2-3924-46ee-9596-9e2116bd3ca2")
-		(property "Reference" "Q?"
+		(property "Reference" "Q7001"
 			(at 266.7 107.9499 0)
 			(effects
 				(font
@@ -21804,7 +21804,7 @@
 		(instances
 			(project "v7_RK3588_PCB"
 				(path "/1d5a1342-f497-4807-8bdb-ea718133b0ad/fb1254ad-a22e-4d7b-81d8-e9d32dd5de93"
-					(reference "Q?")
+					(reference "Q7001")
 					(unit 1)
 				)
 			)
@@ -22103,7 +22103,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CDBHM1100L-HF_CIP"
+		(property "Footprint" ""
 			(at 49.53 270.51 0)
 			(effects
 				(font
@@ -22367,7 +22367,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9c1cc6b9-522d-4e85-b372-b33a52114912")
-		(property "Reference" "FB?"
+		(property "Reference" "FB7002"
 			(at 111.76 222.504 90)
 			(effects
 				(font
@@ -22419,7 +22419,7 @@
 		(instances
 			(project "v7_RK3588_PCB"
 				(path "/1d5a1342-f497-4807-8bdb-ea718133b0ad/fb1254ad-a22e-4d7b-81d8-e9d32dd5de93"
-					(reference "FB?")
+					(reference "FB7002")
 					(unit 1)
 				)
 			)
@@ -22915,7 +22915,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ac984a0e-d59d-4def-9e45-1f0f9322b7d6")
-		(property "Reference" "TP?"
+		(property "Reference" "TP7008"
 			(at 171.45 286.5119 0)
 			(effects
 				(font
@@ -22966,7 +22966,7 @@
 		(instances
 			(project "v7_RK3588_PCB"
 				(path "/1d5a1342-f497-4807-8bdb-ea718133b0ad/fb1254ad-a22e-4d7b-81d8-e9d32dd5de93"
-					(reference "TP?")
+					(reference "TP7008")
 					(unit 1)
 				)
 			)
@@ -23321,7 +23321,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b92dd154-ddfb-4b92-9666-a905925fd0f3")
-		(property "Reference" "TP?"
+		(property "Reference" "TP7002"
 			(at 488.95 222.7579 0)
 			(effects
 				(font
@@ -23372,7 +23372,7 @@
 		(instances
 			(project "v7_RK3588_PCB"
 				(path "/1d5a1342-f497-4807-8bdb-ea718133b0ad/fb1254ad-a22e-4d7b-81d8-e9d32dd5de93"
-					(reference "TP?")
+					(reference "TP7002")
 					(unit 1)
 				)
 			)
@@ -23518,7 +23518,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c2ae8361-1eef-4124-89ff-e9d6ef59b4e3")
-		(property "Reference" "TP?"
+		(property "Reference" "TP7009"
 			(at 327.66 282.956 0)
 			(effects
 				(font
@@ -23569,7 +23569,7 @@
 		(instances
 			(project "v7_RK3588_PCB"
 				(path "/1d5a1342-f497-4807-8bdb-ea718133b0ad/fb1254ad-a22e-4d7b-81d8-e9d32dd5de93"
-					(reference "TP?")
+					(reference "TP7009")
 					(unit 1)
 				)
 			)
@@ -23985,7 +23985,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d290d70d-0827-4cea-afff-b90856aa8f04")
-		(property "Reference" "TP?"
+		(property "Reference" "TP7011"
 			(at 414.02 324.3579 0)
 			(effects
 				(font
@@ -24036,7 +24036,7 @@
 		(instances
 			(project "v7_RK3588_PCB"
 				(path "/1d5a1342-f497-4807-8bdb-ea718133b0ad/fb1254ad-a22e-4d7b-81d8-e9d32dd5de93"
-					(reference "TP?")
+					(reference "TP7011")
 					(unit 1)
 				)
 			)
@@ -24732,7 +24732,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f9bd2878-1a6d-4486-8e38-68d23f618049")
-		(property "Reference" "Q?"
+		(property "Reference" "Q7004"
 			(at 360.68 275.5899 0)
 			(effects
 				(font
@@ -24792,7 +24792,7 @@
 		(instances
 			(project "v7_RK3588_PCB"
 				(path "/1d5a1342-f497-4807-8bdb-ea718133b0ad/fb1254ad-a22e-4d7b-81d8-e9d32dd5de93"
-					(reference "Q?")
+					(reference "Q7004")
 					(unit 1)
 				)
 			)

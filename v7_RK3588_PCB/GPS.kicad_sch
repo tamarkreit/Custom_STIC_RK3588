@@ -2920,7 +2920,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "25048819-86d0-4f7f-aebe-ce500918bc7c")
-		(property "Reference" "E?"
+		(property "Reference" "E6001"
 			(at 130.81 144.5894 0)
 			(effects
 				(font
@@ -3022,7 +3022,7 @@
 		(instances
 			(project "v7_RK3588_PCB"
 				(path "/1d5a1342-f497-4807-8bdb-ea718133b0ad/47f846f7-67f6-44ee-b9eb-cd197539bf38"
-					(reference "E?")
+					(reference "E6001")
 					(unit 1)
 				)
 			)
@@ -3188,7 +3188,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LC76G_QWS"
+		(property "Footprint" ""
 			(at 81.28 78.74 0)
 			(effects
 				(font
@@ -3527,7 +3527,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aacb1598-99b5-478a-ace1-f685cde8bc13")
-		(property "Reference" "CR?"
+		(property "Reference" "CR6001"
 			(at 130.81 163.8299 90)
 			(effects
 				(font
@@ -3545,7 +3545,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CR_SOD882_LTF"
+		(property "Footprint" ""
 			(at 127 177.8 0)
 			(effects
 				(font
@@ -3583,7 +3583,7 @@
 		(instances
 			(project "v7_RK3588_PCB"
 				(path "/1d5a1342-f497-4807-8bdb-ea718133b0ad/47f846f7-67f6-44ee-b9eb-cd197539bf38"
-					(reference "CR?")
+					(reference "CR6001")
 					(unit 1)
 				)
 			)
