@@ -1,4 +1,18 @@
-25639705988310270
+25674944741886724
+16SVPF560M
+CAP_16SVPF560M
+
+
+0
+2
+2
+246
+BAT_246
+
+
+0
+2
+2
 ADP1864
 UJ_6_ADI
 
@@ -20,6 +34,27 @@ ADP1864AUJZ-R7
 0
 6
 6
+AP725_5R_F
+RES_AP725_OHM
+
+AP725 5R F 
+0
+3
+3
+AP725_5R_F
+RES_AP725_OHM-L
+
+AP725 5R F 
+0
+3
+3
+AP725_5R_F
+RES_AP725_OHM-M
+
+AP725 5R F 
+0
+3
+3
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -34,6 +69,27 @@ audio belton reverb
 0
 7
 7
+BMRF001010401R0MD1
+IND_BMRF001010401_PUL
+
+BMRF001010401R0MD1 
+0
+2
+2
+BMRF001010401R0MD1
+IND_BMRF001010401_PUL-L
+
+BMRF001010401R0MD1 
+0
+2
+2
+BMRF001010401R0MD1
+IND_BMRF001010401_PUL-M
+
+BMRF001010401R0MD1 
+0
+2
+2
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -2684,6 +2740,27 @@ Buzzer_Beeper
 Speaker_CUI_CMR-1206S-67
 Speaker, 30mW, 300-7000Hz, IP67 face, 12x6x2,25mm, https://www.cuidevices.com/product/resource/cmr-12062s-67.pdf
 speaker CUI
+0
+2
+2
+CPA2512Q3R30FS_T10
+RES_2512_SUS
+
+CPA2512Q3R30FS-T10 
+0
+2
+2
+CPA2512Q3R30FS_T10
+RES_2512_SUS-L
+
+CPA2512Q3R30FS-T10 
+0
+2
+2
+CPA2512Q3R30FS_T10
+RES_2512_SUS-M
+
+CPA2512Q3R30FS-T10 
 0
 2
 2
@@ -59198,6 +59275,27 @@ TESDH5V0B05P1Q1 M5G
 0
 2
 2
+ETQ_P4M4R7KVC
+IND_PCC-M1040LP_PAN
+
+ETQ-P4M4R7KVC 
+0
+2
+2
+ETQ_P4M4R7KVC
+IND_PCC-M1040LP_PAN-L
+
+ETQ-P4M4R7KVC 
+0
+2
+2
+ETQ_P4M4R7KVC
+IND_PCC-M1040LP_PAN-M
+
+ETQ-P4M4R7KVC 
+0
+2
+2
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -60395,6 +60493,27 @@ heatsink
 0
 0
 0
+IHLP2020CZERR22M8A
+IND_IHLP-2020CZ-8A_VIS
+
+IHLP2020CZERR22M8A 
+0
+2
+2
+IHLP2020CZERR22M8A
+IND_IHLP-2020CZ-8A_VIS-L
+
+IHLP2020CZERR22M8A 
+0
+2
+2
+IHLP2020CZERR22M8A
+IND_IHLP-2020CZ-8A_VIS-M
+
+IHLP2020CZERR22M8A 
+0
+2
+2
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -102024,6 +102143,27 @@ igbt diode module
 0
 25
 25
+UCD0J331MCL1GS
+PCAP_6.3x7.7-ELECT_NCA
+
+UCD0J331MCL1GS 
+0
+2
+2
+UCD0J331MCL1GS
+PCAP_6.3x7.7-ELECT_NCA-L
+
+UCD0J331MCL1GS 
+0
+2
+2
+UCD0J331MCL1GS
+PCAP_6.3x7.7-ELECT_NCA-M
+
+UCD0J331MCL1GS 
+0
+2
+2
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
